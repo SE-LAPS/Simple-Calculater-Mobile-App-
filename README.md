@@ -19,4 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 <br><br>
 <h4> Screen Capture Of The Mobile App </h4>
 <br>
-![Screenshot (745)](https://github.com/SE-LAPS/Simple-Calculator-Mobile-App/assets/87580847/40359a61-eab2-4341-b7b2-7781b5eba3b8)
+
+![Screenshot (746)](https://github.com/SE-LAPS/Simple-Calculator-Mobile-App/assets/87580847/113e06c4-6a5d-4908-9cc0-ab1931374ea7)
